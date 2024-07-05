@@ -61,11 +61,9 @@ function handleCommand(event) {
 }
 // This function handles custom commands
 // It checks the command (without the '!') and responds accordingly
-// §6 is a color code for gold text in Minecraft
 // The time is returned in ticks (20 ticks = 1 second in Minecraft)
 
 // ==================== NOTES ====================
 // This script demonstrates basic usage of the Minecraft Bedrock Edition Script API
 // It includes examples of event handling and custom command processing
-// Color codes (§) are used to format text in Minecraft
 // The script can be expanded to include more complex functionality and additional commands
